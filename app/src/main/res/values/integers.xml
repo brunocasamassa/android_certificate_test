@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="PLAY_SONG_ID">0</integer>
+</resources>

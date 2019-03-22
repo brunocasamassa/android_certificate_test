@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">testRoomPersistence</string>
+    <string name="ARTIST_KEY">artist_key_</string>
+    <string name="MUSIC_KEY">music_key_</string>
+    <string name="ID_MUSIC_KEY">id_music_key_</string>
+</resources>
